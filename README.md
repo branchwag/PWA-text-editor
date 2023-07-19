@@ -2,13 +2,14 @@
 
 ## Description
 
-This project is a text editor PWA that runs in the browser (single-page). Users can create all sorts of fun notes and the app should also be avaliable offline via PWA magic. Have fun tinkering with this!
+This project is a text editor PWA that runs in the browser (single-page). Users can create all sorts of fun notes and the app should also be avaliable offline via PWA magic (if loading via Heroku click the downloadable app button in the browser bar to install). Have fun tinkering with this!
 
 Heroku link: https://pwatexteditorlmb-5ee75f4be028.herokuapp.com/
 
 ## Installation
 
 Once cloning the repo, please run an 'npm i' to make sure that all dependencies within the package.json are installed. Then run npm start to launch. The app should then be avaliable via http://localhost:3000/. 
+If loading via Heroku, click the downloadable app button in the browser bar to install. 
 
 ## Usage
 
