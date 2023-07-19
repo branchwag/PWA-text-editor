@@ -12,7 +12,7 @@ Once cloning the repo, please run an 'npm i' to make sure that all dependencies 
 
 ## Usage
 
-Once the app ahs launched, feel free to type whatever you would like within the window. If you are really out of ideas, try this fun dragon ASCII art that I used to test: https://ascii.co.uk/art/dragon 
+Once the app has launched, feel free to type whatever you would like within the window. If you are really out of ideas, try this fun dragon ASCII art that I used to test: https://ascii.co.uk/art/dragon 
 
 ![screenshot of text editor app](texteditappscreen.png)
 
